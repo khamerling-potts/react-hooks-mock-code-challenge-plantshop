@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Dumb cane",
+      "image": "https://images.thdstatic.com/productImages/a0d65a41-7e5f-4a91-95a0-cd8b240d5edd/svn/costa-farms-house-plants-co-df06-3-cyl-64_600.jpg",
+      "price": "16",
+      "id": 8
+    },
+    {
+      "name": "Fish hooks",
+      "image": "https://images.thdstatic.com/productImages/3e75b4da-6a94-453e-8149-47cb9958c637/svn/shop-succulents-succulent-plants-1-fishhook-6-c3_600.jpg",
+      "price": "11",
+      "id": 9
+    },
+    {
+      "name": "Snake plant",
+      "image": "https://www.ikea.com/us/en/images/products/sansevieria-trifasciata-potted-plant-mother-in-laws-tongue__0908898_pe676659_s5.jpg",
+      "price": "10",
+      "id": 10
     }
   ]
 }
